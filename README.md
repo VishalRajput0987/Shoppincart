@@ -1,8 +1,4 @@
-# 🛒 Orebi Shopping - Full Stack E-commerce Platform
 
-A complete, production-ready e-commerce solution built with modern technologies including React.js, Node.js, Express, MongoDB, Redux Toolkit, Tailwind CSS, and Stripe payment integration.
-
-![Orebi Shopping Platform](./public/thumbnail.png)
 
 ## 🌟 Features
 
@@ -283,54 +279,3 @@ Once the server is running, visit: http://localhost:8000/api-docs
 - **Styling**: Tailwind CSS
 - **Icons**: React Icons
 
-## 🔧 Troubleshooting
-
-### Common Issues
-
-1. **CORS Errors**: Make sure your CLIENT_URL and ADMIN_URL match your running ports
-2. **Database Connection**: Verify your MONGODB_URI and network access settings
-3. **Image Upload Issues**: Check your Cloudinary credentials
-4. **Payment Issues**: Ensure Stripe keys are correct and webhook is configured
-
-### Getting Help
-
-If you encounter any issues:
-
-1. Check the console logs for error messages
-2. Verify all environment variables are set correctly
-3. Ensure all dependencies are installed
-4. Check that all required services (MongoDB, Cloudinary, Stripe) are properly configured
-
-## 🎉 What You Get
-
-After purchase, you'll receive:
-
-- ✅ Complete source code for all three applications
-- ✅ This comprehensive setup guide
-- ✅ Database seed scripts with sample data
-- ✅ Production-ready configuration
-- ✅ API documentation
-- ✅ Admin panel with full management features
-- ✅ Customer-facing e-commerce website
-- ✅ Payment integration (Stripe + PayPal)
-- ✅ Email notification system
-- ✅ Image upload functionality
-- ✅ Responsive design for all devices
-
-## 🌟 Perfect For
-
-- **Entrepreneurs** starting an e-commerce business
-- **Developers** learning full-stack development
-- **Students** working on projects
-- **Agencies** needing a quick e-commerce solution
-- **Freelancers** delivering client projects
-
-## 💰 Purchase
-
-Get the complete source code at: **[Your BuyMeACoffee Link]**
-
----
-
-**Built with ❤️ by [Your Name]**
-
-_Need custom modifications or have questions? Contact me at [noor.jsdivs@gmail.com]_
